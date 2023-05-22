@@ -1,0 +1,11 @@
+C:\Users\fva04\source\repos\ip kalkulator\ip kalkulator\obj\Debug\ip kalkulator.csproj.AssemblyReference.cache
+C:\Users\fva04\source\repos\ip kalkulator\ip kalkulator\obj\Debug\ip_kalkulator.Form1.resources
+C:\Users\fva04\source\repos\ip kalkulator\ip kalkulator\obj\Debug\ip_kalkulator.Properties.Resources.resources
+C:\Users\fva04\source\repos\ip kalkulator\ip kalkulator\obj\Debug\ip kalkulator.csproj.GenerateResource.cache
+C:\Users\fva04\source\repos\ip kalkulator\ip kalkulator\obj\Debug\ip kalkulator.csproj.CoreCompileInputs.cache
+C:\Users\fva04\source\repos\ip kalkulator\ip kalkulator\bin\Debug\ip kalkulator.exe.config
+C:\Users\fva04\source\repos\ip kalkulator\ip kalkulator\bin\Debug\ip kalkulator.exe
+C:\Users\fva04\source\repos\ip kalkulator\ip kalkulator\bin\Debug\ip kalkulator.pdb
+C:\Users\fva04\source\repos\ip kalkulator\ip kalkulator\obj\Debug\ip kalkulator.exe
+C:\Users\fva04\source\repos\ip kalkulator\ip kalkulator\obj\Debug\ip kalkulator.pdb
+C:\Users\fva04\source\repos\ip kalkulator\ip kalkulator\obj\Debug\ip kalkulator.csproj.SuggestedBindingRedirects.cache
