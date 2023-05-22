@@ -133,13 +133,6 @@ namespace ip_kalkulator
 
         }
 
-        private void bClear_Click(object sender, EventArgs e)
-        {
-            tb_1bit.Clear();
-            tb_2bit.Clear();
-            tb_3bit.Clear();
-            tb_4bit.Clear();
-            tb_mask.Clear();
-        }
+        
     }
 }
